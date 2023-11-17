@@ -11,4 +11,4 @@
 _I haven 't figured it out yet_
 
 **Skills:**
-PL (incomplete mastery): С#, C++, C, ASP.NET, Python, PostgreSQL, Docker, Linux
+Technologies (incomplete mastery): С#, C++, C, ASP.NET, Python, PostgreSQL, Docker, Linux
